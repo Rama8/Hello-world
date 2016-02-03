@@ -1,2 +1,1 @@
-# Hello-world
-This is repository for our LabWork
+Sol disn bla bla  
